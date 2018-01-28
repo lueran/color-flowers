@@ -1,0 +1,11 @@
+epochs = 50
+batch size = 20
+step_per_epoch = 20
+loss = 0.0056
+
+
+-------------------------
+epochs = 50
+batch size = 20
+step_per_epoch = 400
+loss = 0.0056
